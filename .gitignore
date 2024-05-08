@@ -2,3 +2,8 @@
 hosts
 Gemfile.lock
 .venv
+/roles/ansible.cfg
+/roles/hosts
+/roles/server.ini
+/roles/setup.yml
+
